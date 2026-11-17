@@ -1,3 +1,4 @@
 My name is Ngalame Nervil Ngame.
-I am a Computer Science Student.
-I am currently learning Git and GitHub to become a professional programmer.
+I am a Computer Science Stud
+I am currently learning Git and GitHub to become a professional software developer.
+
