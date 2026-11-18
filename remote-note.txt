@@ -1,0 +1,2 @@
+I am learning Git Fetch.
+Git Fetch downloads changes from a remote repository without automatically merging them into my current branch.
